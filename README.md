@@ -5,8 +5,8 @@
 
 This work was done as part of a **Capstone Project at Taylor’s University**, where the team **developed a drone, trained, and tested a machine learning model** using aerial imagery captured by the drone.
 
-My Role:
-Data Scientist - Using the captured aerial imagery, I trained and test machine learning model to determine which ML model was able to classify land accurately.
+## Role:
+Lead Data Scientist & ML Developer - Using the captured aerial imagery, I trained and test machine learning model to determine which ML model was able to classify land accurately.
 
 ---
 
